@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="64" viewBox="0 0 128 64">
+  <g id="favicon" transform="translate(-128 -88)">
+    <g id="Elipse_6" data-name="Elipse 6" transform="translate(128 88)" fill="#606060" stroke="#fff" stroke-width="5">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="29.5" fill="none"/>
+    </g>
+    <g id="Elipse_7" data-name="Elipse 7" transform="translate(160 88)" fill="#606060" stroke="#fff" stroke-width="5">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="29.5" fill="none"/>
+    </g>
+    <g id="Elipse_8" data-name="Elipse 8" transform="translate(192 88)" fill="#606060" stroke="#fff" stroke-width="5">
+      <circle cx="32" cy="32" r="32" stroke="none"/>
+      <circle cx="32" cy="32" r="29.5" fill="none"/>
+    </g>
+  </g>
+</svg>
